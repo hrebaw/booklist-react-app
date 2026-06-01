@@ -2,6 +2,10 @@
 
 A full-stack React application for managing and browsing a book list. This project features a TypeScript-based client and server architecture.
 
+## Live Demo
+
+View the app live on GitHub Pages: https://hrebaw.github.io/booklist-react-app/
+
 ## Project Structure
 
 ```
